@@ -5,8 +5,9 @@ import './itemStatusFilter.css';
 class ItemStatusFilter extends Component {
 
     render() {
+
         return (
-            <div className=''>
+            <div className='btn-group'>
                 <button 
                     type='button'
                     className='btn btn-info'>All</button>
