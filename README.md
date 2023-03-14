@@ -1,1 +1,1 @@
-Another toDo on React
+--------------THIS IS STUDYING PROJECT-------------- (I created this project with help teacher)
